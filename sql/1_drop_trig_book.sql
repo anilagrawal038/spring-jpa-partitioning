@@ -1,0 +1,1 @@
+drop trigger IF EXISTS trig_book on book;
