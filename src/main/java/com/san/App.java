@@ -17,7 +17,7 @@ public class App {
 		AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(JPAConfig.class, AppConfig.class);
 		appContext = ctx;
 		System.out.println("Application Initialized");
-		Main.main(ctx);
+		AppDemonstration.main(ctx);
 	}
 
 }

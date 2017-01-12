@@ -15,7 +15,7 @@ import com.san.domain.Book;
 import com.san.repo.BookRepository;
 import com.san.service.BookService;
 
-public class Main {
+public class AppDemonstration {
 
 	static BookService bookService;
 	static BookRepository productRepository;
